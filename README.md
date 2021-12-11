@@ -4,6 +4,8 @@
 
 ## Video of the project
 
+https://user-images.githubusercontent.com/95255730/145666137-60685077-4c0a-4cb2-8ba1-671518c5d86b.mov
+
 ## Detail of the project
 
 This is HTML Canvas Crash Course in Youtube.
